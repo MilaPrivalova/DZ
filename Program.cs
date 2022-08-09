@@ -22,3 +22,9 @@ else
 
 
 
+int max[] array ={2,3,7};
+
+int result = max(
+    max (array[0], array[1], array[2])
+);
+Console.WriteLine(result);
